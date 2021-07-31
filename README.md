@@ -7,8 +7,8 @@ Full-Stack Developer
 
 Enthusiast of the best web and mobile development technologies. Always exploring new technologies and looking to collaborate with other developers. Get in touch and let me know how I can help you 🚀
 
-:rocket:  &nbsp; Working as a **Freelancer**
- <br/> :purple_heart: &nbsp; Looking to collaborate on projects using Angular or React
+:rocket:  &nbsp; Working as a **Full Stack Developer** @ Triple Helix Corporation
+ <br/> :purple_heart: &nbsp; Looking to collaborate on projects using Laravel or Ionic in order to expand my knowledge.
  <br/> :blush: &nbsp; I can help with CSS Grid Layout and Flexbox
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: Passionate about changing people's lives through programming.
